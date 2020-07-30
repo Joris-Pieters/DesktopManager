@@ -1,0 +1,111 @@
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Release\PdfSharp.dll
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Release\RichTextBox.dll
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Release\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Release\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Release\PdfSharp.dll
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Release\RichTextBox.dll
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Release\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Release\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Release\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Release\PdfSharp.dll
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\current\bin\Release\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Release\RichTextBox.dll
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\bin\Release\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\bin\Release\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\bin\Release\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V14\obj\x86\Release\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Release\Desktop Manager.exe.config
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.exe
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.pdb
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Release\Desktop Manager.exe
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Release\Desktop Manager.pdb
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmAbout.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmError.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmGhost.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmMain.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmOneZone.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.Properties.Resources.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Release\Desktop Manager.exe.config
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.exe
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.pdb
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Release\Desktop Manager.exe
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Release\Desktop Manager.pdb
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Release\PdfSharp.dll
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmAbout.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmError.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmGhost.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmMain.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmOneZone.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.Properties.Resources.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csproj.GenerateResource.Cache
+D:\Documenten\Development\DesktopManager\Code\current\bin\Release\Desktop Manager.exe.config
+D:\Documenten\Development\DesktopManager\Code\current\bin\Release\Desktop Manager.exe
+D:\Documenten\Development\DesktopManager\Code\current\bin\Release\Desktop Manager.pdb
+D:\Documenten\Development\DesktopManager\Code\current\bin\Release\PdfSharp.dll
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csprojAssemblyReference.cache
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmAbout.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmError.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmGhost.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmMain.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.frmOneZone.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.Properties.Resources.resources
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csproj.GenerateResource.cache
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csproj.CoreCompileInputs.cache
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csproj.CopyComplete
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.exe
+D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.pdb

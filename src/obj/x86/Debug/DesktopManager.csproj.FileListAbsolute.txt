@@ -1,0 +1,186 @@
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V1\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V2\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.frmApp.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V3\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.frmApp.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V4\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.frmApp.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V5\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V6\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V7\obj\x86\Debug\DesktopManager.frmNotify.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.frmNotify.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V8\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V9 zonder traywindow\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V10 display change\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\bin\Debug\DesktopManager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\bin\Debug\DesktopManager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V11\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Debug\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Debug\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\bin\Debug\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\V12\obj\x86\Debug\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Debug\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Debug\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\bin\Debug\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V12\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Debug\Desktop Manager.exe.config
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Debug\Desktop Manager.exe
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\bin\Debug\Desktop Manager.pdb
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.frmAbout.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.frmError.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\jopieter\Documents\Development\C#\DesktopManager\Code\V13\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Debug\Desktop Manager.exe.config
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\Desktop Manager.exe
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\Desktop Manager.pdb
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmAbout.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmError.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\Joris\Downloads\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Debug\Desktop Manager.exe
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Debug\Desktop Manager.pdb
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Debug\RichPictureBox.dll
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Debug\Desktop Manager.exe.CodeAnalysisLog.xml
+C:\Users\Joris\Downloads\DesktopManager\Code\current\bin\Debug\Desktop Manager.exe.lastcodeanalysissucceeded
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Debug\Desktop Manager.exe.config
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\Desktop Manager.exe
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\Desktop Manager.pdb
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Debug\Desktop Manager.exe
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Debug\Desktop Manager.pdb
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\bin\Debug\RichPictureBox.dll
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.csprojResolveAssemblyReference.cache
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmAbout.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmError.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmGhost.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmMain.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmMultipleZones.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.frmOneZone.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.Properties.Resources.resources
+C:\Users\Joris\Documents\Development\DesktopManager\Code\current\obj\x86\Debug\DesktopManager.csproj.GenerateResource.Cache
