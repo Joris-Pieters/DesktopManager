@@ -4,7 +4,7 @@
 
 Big high-resolution computer screens, we love them! Even better is to have at least two of those connected at the same time. Given the current prices such a setup has become more and more mainstream in both home and office users.
 
-The expected gain in productivity is however not always reached because our operation system is not designed to make full use of this huge amount of pixels. Expi Desktop Manager offers a solution to manage how your different applications running are placed on the desktop. It gives you the ability to create different zones on your desktop and assign a hotkey to each one of them. This way you always have a clean looking (and probably very productive!) desktop, without spending time on dragging and resizing windows.
+The expected gain in productivity is however not always reached because our operation system is not designed to make full use of this huge amount of pixels. Desktop Manager offers a solution to manage how your different applications running are placed on the desktop. It gives you the ability to create different zones on your desktop and assign a hotkey to each one of them. This way you always have a clean looking (and probably very productive!) desktop, without spending time on dragging and resizing windows.
 
 ![](img/example1_small.png)
 
