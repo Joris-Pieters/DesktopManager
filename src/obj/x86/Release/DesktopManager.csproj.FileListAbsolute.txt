@@ -109,3 +109,19 @@ D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopMan
 D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\DesktopManager.csproj.CopyComplete
 D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.exe
 D:\Documenten\Development\DesktopManager\Code\current\obj\x86\Release\Desktop Manager.pdb
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.csprojAssemblyReference.cache
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.frmError.resources
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.frmGhost.resources
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.frmMain.resources
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.frmMultipleZones.resources
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.frmOneZone.resources
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.Properties.Resources.resources
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.csproj.GenerateResource.cache
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.csproj.CoreCompileInputs.cache
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\Desktop Manager.exe
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\Desktop Manager.pdb
+D:\Documenten\Development\DesktopManager\src\bin\Release\Desktop Manager.exe.config
+D:\Documenten\Development\DesktopManager\src\bin\Release\Desktop Manager.exe
+D:\Documenten\Development\DesktopManager\src\bin\Release\Desktop Manager.pdb
+D:\Documenten\Development\DesktopManager\src\bin\Release\PdfSharp.dll
+D:\Documenten\Development\DesktopManager\src\obj\x86\Release\DesktopManager.csproj.CopyComplete

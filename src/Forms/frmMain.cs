@@ -352,20 +352,17 @@ namespace DesktopManager
         {
             try
             {
-                Process.Start("www.expi.be/desktopmanager/help.html");
+                Process.Start("https://github.com/Joris-Pieters/DesktopManager");
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Could not open webpage: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Could not open webpage: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (var frm = new frmAbout())
-            {
-                frm.ShowDialog();
-            }
+            MessageBox.Show("Joris Pieters - 2013", "DesktopManager", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
 
         /////////////////////////////////////////////////////////////////////////////////////////////////

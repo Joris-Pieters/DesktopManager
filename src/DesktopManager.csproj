@@ -55,12 +55,6 @@
     <Compile Include="Forms\frmOneZone.Designer.cs">
       <DependentUpon>frmOneZone.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\frmAbout.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frmAbout.Designer.cs">
-      <DependentUpon>frmAbout.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\frmError.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,9 +111,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Forms\frmAbout.resx">
-      <DependentUpon>frmAbout.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmError.resx">
       <DependentUpon>frmError.cs</DependentUpon>
     </EmbeddedResource>
